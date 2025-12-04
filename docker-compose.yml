@@ -1,5 +1,3 @@
-version: '3.2'
-
 services:
 
   frontend:
@@ -29,6 +27,10 @@ services:
       - MYSQL_DATABASE=yii2advanced
       - MYSQL_USER=yii2advanced
       - MYSQL_PASSWORD=secret
+    ports:
+      - 3306:3306
+    volumes:
+      - mysql_data:/var/lib/mysql
 
   #pgsql:
   #  image: postgres:9.5
@@ -36,3 +38,6 @@ services:
   #    - POSTGRES_DB=yii2advanced
   #    - POSTGRES_USER=yii2advanced
   #    - POSTGRES_PASSWORD=secret
+
+volumes:
+  mysql_data:
