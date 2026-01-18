@@ -164,4 +164,5 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
 
 ## Author
 
-[Your Name]
+Andrey Slutskiy - [andrey.prog54@gmail.com](mailto:andrey.prog54@gmail.com) -
+[https://www.linkedin.com/in/andrey-slutskiy/](https://www.linkedin.com/in/andrey-slutskiy/?locale=en_US)

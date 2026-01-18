@@ -286,7 +286,8 @@ php yii migrate/history
 
 ## Автор
 
-[Ваше имя] - [ваш email]
+Andrey Slutskiy - [andrey.prog54@gmail.com](mailto:andrey.prog54@gmail.com) - 
+[https://www.linkedin.com/in/andrey-slutskiy/](https://www.linkedin.com/in/andrey-slutskiy/)
 
 ## Лицензия
 
